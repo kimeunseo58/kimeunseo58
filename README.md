@@ -1,9 +1,7 @@
-### 
+###
+<div align="center"> <br/><br/><br/>
 😋😉개발 공부 중...😉😋
-
-📧Email📧<br/>
- <a href="kimeunseo0508@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
-alan0221@naver.com<br/>
+<br/><br/><br/><br/>
 
 🛠️Tech Stack🛠️<br/><br/>
 💡Used as the main💡<br/>
@@ -22,7 +20,7 @@ alan0221@naver.com<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
+</div>
 <!--
 **kimeunseo58/kimeunseo58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
